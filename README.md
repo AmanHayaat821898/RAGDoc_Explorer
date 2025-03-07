@@ -1,4 +1,4 @@
-# Chat with Your Documents
+# RAGDoc
 
 
 ## Demo
