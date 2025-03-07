@@ -1,4 +1,4 @@
-# RAGDoc
+# RAGDoc-MultiPDF Chat
 
 
 ## Demo
